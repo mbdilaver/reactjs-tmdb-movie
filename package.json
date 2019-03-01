@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.3",
+    "react-bootstrap": "latest",
+    "react-bootstrap-typeahead": "^4.0.0-alpha.2",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5"
   },

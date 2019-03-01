@@ -6,9 +6,45 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  color: white;
+  font-family: "Oswald", serif;
+  font-size: 1.5rem;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+h4 {
+  color: #01d277;
+}
+
+h3 {
+  color: #01d277;
+}
+
+.content {
+  background: rgba(0,0,0, 0.95);
+}
+
+.top {
+  background: linear-gradient(transparent, rgba(0,0,0, 0.95), rgba(0,0,0, 0.95));
+}
+
+p {
+  font-weight: 300;
 }
