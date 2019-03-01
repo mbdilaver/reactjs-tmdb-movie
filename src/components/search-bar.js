@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Col, InputGroup, FormControl } from "react-bootstrap";
+import { Col } from "react-bootstrap";
 import { searchMovies } from "../api/tmdb";
 import 'react-bootstrap-typeahead/css/Typeahead.css';
 import { AsyncTypeahead } from "react-bootstrap-typeahead";
